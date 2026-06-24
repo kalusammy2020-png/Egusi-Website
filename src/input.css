@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.links{
+    @apply font-medium text-lg text-slate-50
+}
+.nav a{
+    @apply text-xl font-light text-slate-400
+
+}
+.span p{
+    @apply text-xl font-light text-slate-400
+}
+.span i{
+    @apply text-amber-600 text-xl
+}
